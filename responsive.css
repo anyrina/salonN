@@ -1,0 +1,17 @@
+  /* スマホ向けレイアウト */
+  @media all and (max-width: 660px) {
+    .icon {
+        margin: 0;
+    }
+    
+    .header h1 {
+        font-size: 20px;
+    }
+
+    .button {
+        display: block;
+        margin: 15px 25%;
+        text-align: center;
+        padding: 5px -30px;
+    }
+  }
