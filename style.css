@@ -1,0 +1,53 @@
+
+.header .icon {
+  width: 30px;
+  height: 30px;
+  float: left;
+}
+
+.header {
+  margin: 0 auto;
+}
+
+
+.header p {
+  color: rgb(70, 36, 36);
+}
+
+
+.menu-container {
+  background-color: rgb(247, 249, 247);
+  height: 85px;
+  text-align: center;
+  padding: 20px 5px;
+  padding-bottom: 30px;
+  margin-bottom: 10px;
+}
+
+.button {
+  text-decoration: none;
+}
+
+.btn-img {
+  border-radius: 50px;
+}
+
+.images {
+  padding: 20px 0;
+  text-align: center;
+  background-color: rgb(247, 249, 247);
+}
+
+.img {
+  margin-top: 10px;
+  
+}
+
+footer {
+  text-align: center;
+  color: rgb(172, 171, 171);
+  font-size: 3px;
+}
+
+
+
