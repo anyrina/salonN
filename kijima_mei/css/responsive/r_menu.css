@@ -1,0 +1,23 @@
+@media all and (max-width: 660px) {
+    main {
+        margin-top: -70px;
+    }
+
+    h2 {
+        font-size: 18px;
+    }
+
+    .table_menu {
+        font-size: 5px;
+    }
+
+    /*face*/
+    .face_plices {
+        height: 500px;
+    }
+    .fp-tables table {
+        white-space: nowrap;
+        width: 40vw;
+    }
+
+
