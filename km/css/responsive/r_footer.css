@@ -1,0 +1,50 @@
+@media all and (max-width: 660px) {
+    .footer_items {
+        display: block;
+        height: 360px;
+    }
+
+    .map {
+        width: 100vw;
+    }  
+
+    .office {
+        background-size: 300px 300px;
+        background-position: left top;
+    }
+
+    .office p {
+        font-size: 10px;
+    }
+
+    .office table {
+        font-size: 10px;
+    }
+
+    .footer_office_item {
+        left: 18vw;
+    }
+    
+    .footer_sqare {
+        width: 100vw;
+        height: 250px;
+    }
+
+    .footer_shop_name {
+        font-size: 30px;
+        font-family: myfont;
+
+    }
+
+    .table_footer {
+        width: 70vw;
+    }
+
+    .sns {
+        left: 15vw;
+    }
+
+    .copy-bar {
+        font-size: 3vw;
+    }
+}
